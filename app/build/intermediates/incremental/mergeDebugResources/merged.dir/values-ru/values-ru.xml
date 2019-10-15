@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string msgid="4600421777120114993" name="abc_action_bar_home_description">"Перейти на главный экран"</string>
+    <string msgid="1594238315039666878" name="abc_action_bar_up_description">"Перейти вверх"</string>
+    <string msgid="3588849162933574182" name="abc_action_menu_overflow_description">"Другие параметры"</string>
+    <string msgid="4076576682505996667" name="abc_action_mode_done">"Готово"</string>
+    <string msgid="7468859129482906941" name="abc_activity_chooser_view_see_all">"Показать все"</string>
+    <string msgid="2031811694353399454" name="abc_activitychooserview_choose_application">"Выбрать приложение"</string>
+    <string msgid="121134116657445385" name="abc_capital_off">"ОТКЛ."</string>
+    <string msgid="3405795526292276155" name="abc_capital_on">"ВКЛ."</string>
+    <string msgid="7723749260725869598" name="abc_search_hint">"Поиск"</string>
+    <string msgid="3691816814315814921" name="abc_searchview_description_clear">"Удалить запрос"</string>
+    <string msgid="2550479030709304392" name="abc_searchview_description_query">"Поисковый запрос"</string>
+    <string msgid="8264924765203268293" name="abc_searchview_description_search">"Поиск"</string>
+    <string msgid="8928215447528550784" name="abc_searchview_description_submit">"Отправить запрос"</string>
+    <string msgid="893419373245838918" name="abc_searchview_description_voice">"Голосовой поиск"</string>
+    <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"Открыть доступ"</string>
+    <string msgid="3300176832234831527" name="abc_shareactionprovider_share_with_application">"Открыть доступ приложению \"<ns1:g id="APPLICATION_NAME">%s</ns1:g>\""</string>
+    <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"Свернуть"</string>
+    <string name="app_name">CriminalIntent</string>
+    <string name="crime_details_label">Детали</string>
+    <string name="crime_photo_button_description">Сделать фото с места преступления</string>
+    <string name="crime_photo_image_desription">фото с места преступления (установлено)</string>
+    <string name="crime_photo_no_image_desription">фото с места преступления (не установлено)</string>
+    <string name="crime_report">%1$s! Преступление было совершено в %2$s. %3$s. На данный момент %4$s</string>
+    <string name="crime_report_no_suspect">подозреваемых нет</string>
+    <string name="crime_report_solved">Дело раскрыто</string>
+    <string name="crime_report_subject">CriminalIntent отчёт о приступлении</string>
+    <string name="crime_report_suspect">подозреваемым считается %1$s</string>
+    <string name="crime_report_unsolved">Дело не раскрыто</string>
+    <string name="crime_solved_label">Решено</string>
+    <string name="crime_suspect_text">выбрать подозреваемого</string>
+    <string name="crime_title_hint">Введите заголовок преступления</string>
+    <string name="crime_title_label">Заголовок</string>
+    <string name="date_picker_title">Дата преступления</string>
+    <string name="hide_subtitle">Спрятать заголовок</string>
+    <string name="new_crime">Новое преступление</string>
+    <string msgid="146198913615257606" name="search_menu_title">"Поиск"</string>
+    <string name="send_report">Отправить отчёт через</string>
+    <string name="send_report_text">отправить отчёт</string>
+    <string name="show_subtitle">Показать заголовок</string>
+    <string msgid="2869576371154716097" name="status_bar_notification_info_overflow">">999"</string>
+    <string name="subtitle_format">%1$d преступлений</string>
+</resources>

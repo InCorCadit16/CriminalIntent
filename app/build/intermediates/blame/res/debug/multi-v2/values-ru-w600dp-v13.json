@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "D:\\Projects\\AndroidProjects\\CriminalIntent\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-ru-w600dp-v13\\values-ru-w600dp-v13.xml",
+            "map": [
+                {
+                    "source": "D:\\Projects\\AndroidProjects\\CriminalIntent\\app\\src\\main\\res\\values-ru-w600dp\\strings.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "57",
+                        "endColumns": "90",
+                        "endOffsets": "143"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "90",
+                        "endOffsets": "141"
+                    }
+                }
+            ]
+        }
+    ]
+}
